@@ -1,13 +1,8 @@
-# ucakoyunu
-2D Uçak savunma oyunu
+# planeDefenceGame
+2D Plane Defence Game
 
-Kazanmak için ekranın sağ kısmından gelen yaratıklara ateş etmeli ve onları yoketmelisiniz. 
-W ve S tuşları yukarı aşağı hareketi sağlar, F tuşu mermi ateşler.
+To win you need to attack enemies which are coming from the right side of the battle field. If an enemy cross the left line game will end.
 
-
-
-Buglar :
-
-- Mermi yenilenmesi
-- Düşman spawn sorunu
-- Sınırların uçağı durduramaması
+Features : 
+- W and S are keys  for movement.
+- F is the key for fire.
